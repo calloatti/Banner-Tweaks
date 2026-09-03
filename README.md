@@ -1,8 +1,10 @@
 ﻿Banner Tweaks
 
-https://github.com/calloatti/Decal-Tweaks
+https://github.com/calloatti/Banner-Tweaks
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=3769863867
+
+https://mod.io/g/timberborn/m/3769863867
 
 Mods on GitHub
 
