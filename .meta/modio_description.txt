@@ -1,0 +1,27 @@
+<p>Adds clean subfolders and pagination for Timberborn decals, supporting the Moddable Decal Groups standard. Easily browse custom designs by mod and group in an expanded grid view.</p>
+<h3 id="overview">Overview</h3>
+<p>Banner Tweaks completely overhauls the in-game banner and tail pattern selection menu. Automatically organizes your banners and tail patterns into clean, structured subfolders and mod groups.</p>
+<h3 id="how-to-use">How to use</h3>
+<p>Click the Browse button in the building GUI, or double click the building (Pole Banner, Square Banner, Detailer). Click Banner/Tail to select, press ESC or click the red X to close, or double click Banner/Tail to select and close the window.</p>
+<h3 id="key-features">Key Features</h3>
+<p>Adds support for folders in the Banners and Tails folders.
+Native compatibility with the Moddable Decal Groups mod standard, automatically loading custom group specifications defined by mod creators.</p>
+<h3 id="new-borderless-square-banner">NEW: Borderless Square Banner</h3>
+<p>Add a new building similar to the Square Banner but borderless.</p>
+<h3 id="folder-group-navigation">Folder &amp; Group Navigation</h3>
+<p>Mod Containers ([MOD]): Automatically gathers custom patterns introduced by mods into their own dedicated group.<br />
+Custom Groups ([GROUP]): Sub-categorizes patterns into custom subgroups (e.g., Consumables, Ingredients, Fluids) as defined by mod authors.
+Directory Folders ([FOLDER]): Seamlessly navigates disk subfolder structures.</p>
+<h3 id="enhanced-grid-ui">Enhanced Grid UI</h3>
+<p>Expanded 10x5 grid view displaying up to 47 items per page.<br />
+Navigation controls including Top, Prev, and Next buttons alongside mouse wheel scrolling support.<br />
+Clear title header tracking your active category and folder depth (e.g., Banners\Banner Goods\Goods: Consumables).</p>
+<h3 id="comparison-slots">Comparison Slots</h3>
+<p>Dedicated Original slot to remember what pattern was placed before you started browsing.<br />
+Live Current slot showing your newly selected pattern in real-time.</p>
+<hr />
+<p><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3682179025">Mods on Steam</a></p>
+<p><a href="https://mod.io/u/calloatti/?_sort=name">Mods on mod-dot-io</a></p>
+<p><a href="https://github.com/search?q=owner%3Acalloatti+sort%3Aname-asc+%22Timberborn+Mod%22&amp;type=repositories">Mods on Github</a></p>
+<p><a href="https://github.com/calloatti/ModZips">Mod zip files</a></p>
+

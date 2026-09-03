@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <AssemblyName>bannertweaks</AssemblyName>
+    <RootNamespace>Calloatti.BannerTweaks</RootNamespace>
+    <TimberbornPath>C:\Program Files (x86)\Steam\steamapps\common\timberborn_old-1.0\Timberborn_Data\Managed</TimberbornPath>
+  </PropertyGroup>
+
+  <Import Project="CommonModSettings.props" />
+
+  <ItemGroup>
+    <DoNotPublicize Include="Timberborn.DecalSystem:Timberborn.DecalSystem.DecalSupplier.ActiveDecalChanged" />
+  </ItemGroup>
+
+</Project>
+
+

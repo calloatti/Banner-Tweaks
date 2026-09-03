@@ -1,0 +1,1 @@
+Adds a large grid panel to browse and select banners and tails more easily. Also supports subfolders.

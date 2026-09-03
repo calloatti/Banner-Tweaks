@@ -1,0 +1,2 @@
+* Game Version: 1.0.0.0 - Mod Version: 1.1.1
+- Fix event handler leak, localized panel UI, edge fade now only on Borderless Square Banner
