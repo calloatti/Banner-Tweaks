@@ -1,6 +1,6 @@
 {
-  "DepsFile": "C:/Users/calloatti/source/repos/Mods/Banner Tweaks/.meta/steam_deps.txt",
-  "ItemId": "3769863867",
   "ContentFolder": "C:/Users/calloatti/Documents/Timberborn/Mods/Banner Tweaks",
-  "ChangeNoteFile": "C:/Users/calloatti/source/repos/Mods/Banner Tweaks/.meta/steam_changelog.txt"
+  "ItemId": "3769863867",
+  "ChangeNoteFile": "C:/Users/calloatti/source/repos/Mods/Banner Tweaks/.meta/steam_changelog.txt",
+  "DepsFile": "C:/Users/calloatti/source/repos/Mods/Banner Tweaks/.meta/steam_deps.txt"
 }
