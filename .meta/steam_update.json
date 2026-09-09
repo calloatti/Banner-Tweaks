@@ -1,10 +1,10 @@
 {
-  "ItemId": "3769863867",
+  "Visibility": "public",
   "TagsFile": "C:/Users/calloatti/source/repos/Mods/Banner Tweaks/.meta/steam_tags.txt",
-  "DepsFile": "C:/Users/calloatti/source/repos/Mods/Banner Tweaks/.meta/steam_deps.txt",
+  "PreviewFile": "C:/Users/calloatti/Documents/Timberborn/Mods/Banner Tweaks/thumbnail.jpg",
   "Title": "Banner Tweaks",
   "DescriptionFile": "C:/Users/calloatti/source/repos/Mods/Banner Tweaks/.meta/steam_description.txt",
+  "DepsFile": "C:/Users/calloatti/source/repos/Mods/Banner Tweaks/.meta/steam_deps.txt",
   "ContentFolder": "C:/Users/calloatti/Documents/Timberborn/Mods/Banner Tweaks",
-  "PreviewFile": "C:/Users/calloatti/Documents/Timberborn/Mods/Banner Tweaks/thumbnail.jpg",
-  "Visibility": "public"
+  "ItemId": "3769863867"
 }
