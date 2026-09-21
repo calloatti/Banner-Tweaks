@@ -532,7 +532,7 @@ namespace Calloatti.BannerTweaks
       if (texture != null)
         root.style.backgroundImage = new StyleBackground(texture);
 
-      root.style.backgroundColor = new Color(98 / 255f, 83 / 255f, 66 / 255f, 1f);
+      root.style.backgroundColor = new Color(145 / 255f, 124 / 255f, 97 / 255f, 1f);
       root.style.unityBackgroundImageTintColor = new StyleColor(SelectedTint);
       root.userData = decal;
 

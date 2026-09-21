@@ -1,6 +1,6 @@
 {
   "Name": "Banner Tweaks",
-  "Version": "1.1.2",
+  "Version": "1.1.3",
   "Id": "Calloatti.BannerTweaks",
   "MinimumGameVersion": "1.1.2.4",
   "Description": "Adds a large grid panel to browse and select banners and tails more easily. Also supports subfolders.",
